@@ -2,7 +2,7 @@
 Summary:	Pure-Python RSA implementation
 Name:		python3-%{module}
 Version:	4.7.2
-Release:	4
+Release:	5
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/rsa/
